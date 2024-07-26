@@ -1,30 +1,16 @@
 # hello! i'm jesse
 
-i've been working in the charity fundraising industry for a few years, developing automation solutions for a telefundraising company in sydney.
+i'm a programming enthusiast and have always enjoyed the chase of finding laborious tasks/processes and making a system to solve them. i have a background in making music and love going at anything that will allow the music and programming worlds to collide.
 
-i've enjoyed using the following tools in solutions i've built:
+currently working on:
+- operations development @ [givetel](https://github.com/Givetel) including web tools, apis and infrastructure.
+- dsp research & design @ [australian technique](https://github.com/Australian-Technique) implementing embedded dsp for loudspeakers.
+
+my go-to languages:
 - python
 - go
-- rust
+- rust (although i don't own any thigh high socks, yet)
 - javascript/typescript
 - mysql
 
-i've also used the following tools, and would use them again with heightened emotions/pain:
-- aws (most experienced with lambda, ec2, api gateway, vpc, iam, sqs)
-
-currently enjoying building outside of serverless infrastructures, but maintain projects hosted on vercel & apis built using api gateway/lambda.
-
-<!--
-**jesses-code-adventures/jesses-code-adventures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i've also built some pretty terrible projects in C and plan to build some even worse projects in zig.
