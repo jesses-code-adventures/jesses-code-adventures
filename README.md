@@ -11,6 +11,5 @@ my go-to languages:
 - go
 - javascript/typescript
 - rust (although i don't own any thigh high socks, yet)
-- mysql
 
 i've also built some pretty terrible projects in C and plan to build some even worse projects in zig.
