@@ -9,8 +9,8 @@ currently working on:
 my go-to languages:
 - python
 - go
-- rust (although i don't own any thigh high socks, yet)
 - javascript/typescript
+- rust (although i don't own any thigh high socks, yet)
 - mysql
 
 i've also built some pretty terrible projects in C and plan to build some even worse projects in zig.
