@@ -9,6 +9,7 @@ currently working on:
 
 my go-to languages:
 - go
+- lua, for nvim plugins
 - python
 - javascript/typescript
 - rust (although i don't own any thigh high socks, yet)
